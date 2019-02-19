@@ -1,0 +1,101 @@
+body{
+	margin:0;
+	padding:0;
+	border:0; 
+	list-style:none;
+}
+
+#container{
+	width:100%; 
+	height:auto;
+	margin:auto;
+}
+/**********Header block styles****************/
+#header
+{
+	width: 100%;
+	height: 100px;
+}
+#header .logo
+{
+	width: 30%;
+	height: 100%;
+	background: #e5e5e5;
+	float: left;
+}
+#header .nav
+{
+	width: 70%;
+	height: 100px;
+	float: right;
+	background: #868def;
+}
+/**********Header block styles****************/
+ 
+/**********Banner block styles****************/
+#banner
+{
+	width: 100%;
+	height: 350px;
+	background: #f6d4f7;
+}
+/**********Banner block styles****************/
+
+
+/**********Content block stylest****************/
+#content
+{
+	width: 100%;
+	height:400px;
+}
+#content .what
+{
+	width: 78%;
+	height: 100px;
+	background: #63bee2; 
+	margin: auto;
+}
+#content .section2
+{
+	width: 80%;
+	height: 300px;
+/*	background: #cbed7d;*/
+	margin: auto;
+}
+
+.section2 .blogs1
+{
+	width: 30%;
+	margin: 30px 1.65%;
+	height: 80%;
+	background: #ef7d6b;
+	float: left;
+}
+.section2 .blogs2
+{
+	width: 30%;
+	margin: 30px 1.65%;
+	height: 80%;
+	background: #87f2eb;
+	float: left;
+}
+.section2 .blogs3
+{
+	width: 30%;
+	margin: 30px 1.65%;
+	height: 80%;
+	background: #563a72;
+	float: right;
+}
+
+/**********Content block styles****************/
+
+
+/**********Footer block styles****************/
+#footer
+{
+	width: 100%;
+	height:100px;
+	background: #b6a4c7;
+}
+/**********Footer block styles****************/
